@@ -50,14 +50,13 @@
 </div>
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mertkaya01&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=7c3aed&text_color=94a3b8&bg_color=030712" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaya01&layout=compact&hide_border=true&title_color=22d3ee&text_color=94a3b8&bg_color=030712" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaya01&hide_border=true&background=030712&stroke=7c3aed&ring=22d3ee&fire=10b981&currStreakLabel=22d3ee" />
