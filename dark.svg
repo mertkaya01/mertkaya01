@@ -203,40 +203,40 @@
 
   <!-- Greeting -->
   <g font-family="'Segoe UI',system-ui,sans-serif">
-    <text x="492" y="136" font-size="38" font-weight="700" fill="#F8FAFC" opacity="0">Hi <tspan font-size="34">👋</tspan> I'm <tspan fill="url(#accent)">Mert Kaya</tspan>
+    <text x="492" y="138" font-size="42" font-weight="700" fill="#F8FAFC" opacity="0">Hi <tspan font-size="36">👋</tspan> I'm <tspan fill="url(#accent)">Mert Kaya</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.3s" fill="freeze"/>
     </text>
 
     <!-- Typing role cycler -->
-    <g font-family="'Courier New',monospace" font-size="27" font-weight="600" fill="#22D3EE">
-      <text x="492" y="184" fill="#7C3AED">&gt;</text>
-      <text x="516" y="184"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.18;0.2;1" values="1;1;0;0"/>Computer Engineering<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
-      <text x="516" y="184" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.2;0.22;0.38;0.4;1" values="0;0;1;1;0;0"/>Full Stack Developer<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
-      <text x="516" y="184" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.4;0.42;0.58;0.6;1" values="0;0;1;1;0;0"/>Open Source Contributor<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
-      <text x="516" y="184" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.6;0.62;0.78;0.8;1" values="0;0;1;1;0;0"/>UI Engineer<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
-      <text x="516" y="184" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.8;0.82;0.98;1" values="0;0;1;1;0"/>AI Enthusiast<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
+    <g font-family="'Courier New',monospace" font-size="30" font-weight="600" fill="#22D3EE">
+      <text x="492" y="192" fill="#7C3AED">&gt;</text>
+      <text x="516" y="192"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.18;0.2;1" values="1;1;0;0"/>Computer Engineering<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
+      <text x="516" y="192" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.2;0.22;0.38;0.4;1" values="0;0;1;1;0;0"/>Full Stack Developer<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
+      <text x="516" y="192" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.4;0.42;0.58;0.6;1" values="0;0;1;1;0;0"/>Open Source Contributor<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
+      <text x="516" y="192" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.6;0.62;0.78;0.8;1" values="0;0;1;1;0;0"/>UI Engineer<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
+      <text x="516" y="192" opacity="0"><animate attributeName="opacity" dur="15s" repeatCount="indefinite" keyTimes="0;0.8;0.82;0.98;1" values="0;0;1;1;0"/>AI Enthusiast<tspan fill="#7C3AED">|<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></tspan></text>
     </g>
   </g>
 
-    <!-- Info list -->
-  <line x1="492" y1="222" x2="1116" y2="222" stroke="rgba(255,255,255,0.07)"/>
-  <g font-family="'Segoe UI',system-ui,sans-serif" font-size="20">
+      <!-- Info list -->
+  <line x1="492" y1="230" x2="1116" y2="230" stroke="rgba(255,255,255,0.07)"/>
+  <g font-family="'Segoe UI',system-ui,sans-serif" font-size="21">
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze"/>
-      <text x="492" y="264" fill="#64748B">📍 Location</text><text x="680" y="264" fill="#F8FAFC">İstanbul, Türkiye</text></g>
+      <text x="492" y="276" fill="#64748B">📍 Location</text><text x="676" y="276" fill="#F8FAFC">İstanbul, Türkiye</text></g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/>
-      <text x="492" y="312" fill="#64748B">🎓 Education</text><text x="680" y="312" fill="#F8FAFC">İstanbul Kültür University · Computer Eng.</text></g>
+      <text x="492" y="326" fill="#64748B">🎓 Education</text><text x="676" y="326" fill="#F8FAFC">İstanbul Kültür University · Computer Eng.</text></g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.8s" fill="freeze"/>
-      <text x="492" y="360" fill="#64748B">🔭 Focus</text><text x="680" y="360" fill="#F8FAFC">Full-Stack &amp; AI</text></g>
+      <text x="492" y="376" fill="#64748B">🔭 Focus</text><text x="676" y="376" fill="#F8FAFC">Full-Stack &amp; AI</text></g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.1s" fill="freeze"/>
-      <text x="492" y="408" fill="#64748B">✉️ Email</text>
-      <text x="680" y="408" fill="#22D3EE">mhellingtr@gmail.com<tspan fill="#64748B" font-size="15"> · work</tspan></text>
-      <text x="680" y="440" fill="#22D3EE">kayamert1734@outlook.com<tspan fill="#64748B" font-size="15"> · personal</tspan></text></g>
+      <text x="492" y="426" fill="#64748B">✉️ Email</text>
+      <text x="676" y="426" fill="#22D3EE">mhellingtr@gmail.com<tspan fill="#64748B" font-size="16"> · work</tspan></text>
+      <text x="676" y="460" fill="#22D3EE">kayamert1734@outlook.com<tspan fill="#64748B" font-size="16"> · personal</tspan></text></g>
   </g>
 
   <!-- Footer status -->
   <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.5s" fill="freeze"/>
-    <rect x="492" y="494" width="298" height="42" rx="21" fill="rgba(16,185,129,0.10)" stroke="rgba(16,185,129,0.4)"/>
-    <circle cx="518" cy="515" r="6" fill="#10B981"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
-    <text x="534" y="521" font-family="'Segoe UI',system-ui,sans-serif" font-size="17" font-weight="600" fill="#34D399">Open to new opportunities</text>
+    <rect x="492" y="506" width="310" height="44" rx="22" fill="rgba(16,185,129,0.10)" stroke="rgba(16,185,129,0.4)"/>
+    <circle cx="520" cy="528" r="6.5" fill="#10B981"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="538" y="535" font-family="'Segoe UI',system-ui,sans-serif" font-size="18" font-weight="600" fill="#34D399">Open to new opportunities</text>
   </g>
 </svg>
