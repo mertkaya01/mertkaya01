@@ -32,12 +32,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-
 </div>
 
 ---
@@ -56,13 +50,14 @@
 </div>
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mertkaya01&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=7c3aed&text_color=94a3b8&bg_color=030712" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaya01&layout=compact&hide_border=true&title_color=22d3ee&text_color=94a3b8&bg_color=030712" />
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkaya01&hide_border=true&background=030712&stroke=7c3aed&ring=22d3ee&fire=10b981&currStreakLabel=22d3ee" />

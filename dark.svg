@@ -224,19 +224,21 @@
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze"/>
       <text x="492" y="276" fill="#64748B">📍 Location</text><text x="676" y="276" fill="#F8FAFC">İstanbul, Türkiye</text></g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/>
-      <text x="492" y="326" fill="#64748B">🎓 Education</text><text x="676" y="326" fill="#F8FAFC">İstanbul Kültür University · Computer Eng.</text></g>
+      <text x="492" y="326" fill="#64748B">🎓 Education</text>
+      <text x="676" y="326" fill="#F8FAFC">İstanbul Kültür University · Computer Eng.</text>
+      <text x="676" y="352" fill="#7DD3FC" font-size="16">↳ Erasmus · Brandenburg Technische Hochschule</text></g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.8s" fill="freeze"/>
-      <text x="492" y="376" fill="#64748B">🔭 Focus</text><text x="676" y="376" fill="#F8FAFC">Full-Stack &amp; AI</text></g>
+      <text x="492" y="392" fill="#64748B">🔭 Focus</text><text x="676" y="392" fill="#F8FAFC">Full-Stack &amp; AI</text></g>
     <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.1s" fill="freeze"/>
-      <text x="492" y="426" fill="#64748B">✉️ Email</text>
-      <text x="676" y="426" fill="#22D3EE">mhellingtr@gmail.com<tspan fill="#64748B" font-size="16"> · work</tspan></text>
-      <text x="676" y="460" fill="#22D3EE">kayamert1734@outlook.com<tspan fill="#64748B" font-size="16"> · personal</tspan></text></g>
+      <text x="492" y="440" fill="#64748B">✉️ Email</text>
+      <text x="676" y="440" fill="#22D3EE">mhellingtr@gmail.com<tspan fill="#64748B" font-size="16"> · work</tspan></text>
+      <text x="676" y="472" fill="#22D3EE">kayamert1734@outlook.com<tspan fill="#64748B" font-size="16"> · personal</tspan></text></g>
   </g>
 
   <!-- Footer status -->
   <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.5s" fill="freeze"/>
-    <rect x="492" y="506" width="310" height="44" rx="22" fill="rgba(16,185,129,0.10)" stroke="rgba(16,185,129,0.4)"/>
-    <circle cx="520" cy="528" r="6.5" fill="#10B981"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
-    <text x="538" y="535" font-family="'Segoe UI',system-ui,sans-serif" font-size="18" font-weight="600" fill="#34D399">Open to new opportunities</text>
+    <rect x="492" y="516" width="310" height="44" rx="22" fill="rgba(16,185,129,0.10)" stroke="rgba(16,185,129,0.4)"/>
+    <circle cx="520" cy="538" r="6.5" fill="#10B981"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="538" y="545" font-family="'Segoe UI',system-ui,sans-serif" font-size="18" font-weight="600" fill="#34D399">Open to new opportunities</text>
   </g>
 </svg>
